@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:21.619491
+#+DATE: 2015-08-30 19:34:22.946296
 #+TITLE: 一切智光明仙人慈心因緣不食肉經
 #+PROPERTY: CBETA_ID T03n0183
 #+PROPERTY: ID KR6b0039
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 183
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0039_T_000-0457c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0039_T_001-0457c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.183¶
-
- 一切智光明仙人慈心因緣不食¶
+No. 183¶
+一切智光明仙人慈心因緣不食¶
 肉經¶
 ¶
 失譯人名今附秦錄¶
